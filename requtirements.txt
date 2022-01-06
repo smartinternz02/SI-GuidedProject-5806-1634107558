@@ -1,0 +1,6 @@
+FLASK==1.1.1
+Flask-cors==3.0.8
+Werkzeug==0.16.0
+gevent
+tensorflow==1.14.0
+keras==2.2.4
